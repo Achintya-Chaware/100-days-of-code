@@ -18,6 +18,14 @@
 ###  Day 8: March 16, 2021
 
 **Progress:**
-Did the Basic CSS part (44 lessons) of the FreeCodeCamp's Responsive Web Design certification. This covered classes, properties of text, colours and coloue systems, padding and margins and various ways of declaring them, overriding, fallback, inheritance, etc.
+Did the Basic CSS part (44 lessons) of the FreeCodeCamp's Responsive Web Design certification. This covered:
+- Classes
+- Properties of text
+- colours and colour systems
+- Padding, margins and various methods of declaring them
+- Overriding
+- Fallback
+- Inheritance
+- etc.
 
 **Thoughts:** Did not face any difficulty today. The baby penguin in the exercises was super cute! Also, it was a productive day.
