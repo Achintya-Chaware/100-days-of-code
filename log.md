@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1 to 7: March 9, 2021 to March 15, 2021
-##### (delete me or comment me out)
+<!--##### (delete me or comment me out)-->
 
 **Progress**:
 -Got started with the odin project
@@ -12,3 +12,5 @@
 -Did basics of HTML and HTML5 from responsive web design course on FreeCodeCamp (28 lessons)
 
 **Thoughts:** Ubuntu installation was very tideous. HTML is amazingly easy! I knew from people that it is easy but didn't know that it's plain English. How internet works is amazing!
+
+<!--**Link(s) to work:**-->
