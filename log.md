@@ -29,3 +29,18 @@ Did the Basic CSS part (44 lessons) of the FreeCodeCamp's Responsive Web Design 
 - etc.
 
 **Thoughts:** Did not face any difficulty today. The baby penguin in the exercises was super cute! Also, it was a productive day.
+
+### Day 9: March 17, 2021
+
+**Progress:**
+Completed 50% (26 lessons) of applied visual design section in the Responsive Web Design Certification. This covered:
+- Text alignments
+- Width and height of elements
+- Text properties like making text bold
+- Font size, font weight
+- Locking elements
+- Hover state
+- Relative position of elements
+- etc.
+
+**Thoughts:** There were 2-3 minor problems which I resolved without much effort, but otherwise today was good.
