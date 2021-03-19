@@ -44,3 +44,15 @@ Completed 50% (26 lessons) of applied visual design section in the Responsive We
 - etc.
 
 **Thoughts:** There were 2-3 minor problems which I resolved without much effort, but otherwise today was good.
+
+### Day 10: March 18, 2021
+
+**Progress:**
+Completed the remaining 50% (26 lessons)of applied visual design dection. This covered:
+- Colour systems
+- Gradients
+- Scaling
+- Transformations
+- Animations using keyframes
+
+**Thoughts:** No problems today. It was pretty easy. Looking forward to complete this certification ASAP.
