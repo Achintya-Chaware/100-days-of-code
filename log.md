@@ -56,3 +56,10 @@ Completed the remaining 50% (26 lessons)of applied visual design dection. This c
 - Animations using keyframes
 
 **Thoughts:** No problems today. It was pretty easy. Looking forward to complete this certification ASAP.
+
+###Day 11: March 19, 2021
+
+**Progress:**
+Completed the applied accessibility section (22 lessons) and the responsive web design principles section (4 lessons) of FreeCodeCamp's Responsive Web Design course. This involved various accessibility features for differently abled people and some other accessibility features too.
+
+**Thoughts:** To be honest, today was a bit boring.
