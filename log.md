@@ -63,3 +63,17 @@ Completed the remaining 50% (26 lessons)of applied visual design dection. This c
 Completed the applied accessibility section (22 lessons) and the responsive web design principles section (4 lessons) of FreeCodeCamp's Responsive Web Design course. This involved various accessibility features for differently abled people and some other accessibility features too.
 
 **Thoughts:** To be honest, today was a bit boring.
+
+### Day 12: March 20, 2021
+
+**Progress:** 
+Completed the CSS Flexbox section (17 lessons) of the responsive web design certification. This section was all about flexbox and how to use it.
+
+**Thoughts:** Flexbox was a bit more complicated than the CSS I learned until now.
+
+### Day 13: March 22, 2021
+
+**Progress:**
+Completed the CSS grid section (22 lessons) of the responsive web design certification. This section was about using grids in CSS.
+
+**Thoughts:** Today's concept was a bit more complex. From tomorrow, I will go back to The Odin Project. I will do the projects in the FreeCodeCamp course simultaneously.
