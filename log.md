@@ -77,3 +77,10 @@ Completed the CSS Flexbox section (17 lessons) of the responsive web design cert
 Completed the CSS grid section (22 lessons) of the responsive web design certification. This section was about using grids in CSS.
 
 **Thoughts:** Today's concept was a bit more complex. From tomorrow, I will go back to The Odin Project. I will do the projects in the FreeCodeCamp course simultaneously.
+
+### Day 14: March 24, 2021
+
+**Progress:**
+I am now coming back to The Odin Project; I learnt about developer tools today. I also got started with a project in The Odin Project where I have to recreate the Google Homepage. 
+
+**Thoughts:** The project seems pretty exciting as it is a test of the things that I learned until now. Hoping to finish it quickly.
