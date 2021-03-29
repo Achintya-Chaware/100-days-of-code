@@ -84,3 +84,28 @@ Completed the CSS grid section (22 lessons) of the responsive web design certifi
 I am now coming back to The Odin Project; I learnt about developer tools today. I also got started with a project in The Odin Project where I have to recreate the Google Homepage. 
 
 **Thoughts:** The project seems pretty exciting as it is a test of the things that I learned until now. Hoping to finish it quickly.
+
+### Day 15: March 26, 2021
+
+**Progress:**
+I have done quite a bit of work in the project and I think I will complete it in the next two days.
+
+**Thoughts:** So far I feel pretty optimistic about my first project! I think I can do it.
+
+### Day 16: March 28, 2021
+
+**Progress:**
+I am not able to complete the project, almost no progress today. My webpage doesn't exactly function as it should. I think I have to go back to the course, figure somethings out, do a couple of projects from FreeCodeCamp, and then try this again.
+
+**Thoughts:** Today was not as I expected it to be but I plan to go back, revise and try this again.
+
+### Day 17: March 29, 2021
+
+**Progress:**
+Since the last two days, I revised all the concepts in CSS. Today, I made the tribute page from projects from FreeCodeCamp. That is the most basic project they have, but I will try two-three more complicated ones in the coming days.
+
+**Thoughts:** Revisiting the concepts and then trying again, starting with a simple project first was very rewarding.
+
+**Link(s) to Work:** [Tribute Page Project](https://achintya-chaware.github.io/TributePageProject/) 
+
+
